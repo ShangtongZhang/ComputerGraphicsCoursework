@@ -278,7 +278,7 @@ int main(int argc, char **argv) {
 	// create window
 	glutInitWindowPosition(460, 40);
 	glutInitWindowSize(800, 800);
-	glutCreateWindow("NCTU Shangtong Zhang CG HW1");
+	glutCreateWindow("FDU Shangtong Zhang CGHW");
   
 	glewInit();
 	if(glewIsSupported("GL_VERSION_2_0")){

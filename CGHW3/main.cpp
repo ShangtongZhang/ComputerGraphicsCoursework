@@ -661,7 +661,7 @@ int main(int argc, char **argv) {
 	// create window
 	glutInitWindowPosition(460, 40);
 	glutInitWindowSize(800, 800);
-	int winID = glutCreateWindow("10320 CS550000 CG HW3 Shangtong Zhang");
+	int winID = glutCreateWindow("FDU Shangtong Zhang CGHW");
 
 	glewInit();
 	if(glewIsSupported("GL_VERSION_2_0")){
