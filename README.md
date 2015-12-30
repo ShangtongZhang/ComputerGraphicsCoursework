@@ -1,5 +1,5 @@
 # Computer Graphics Coursework
->Directed by Ruen-Rone Lee, National Tsing Hua University, Spring 2015
+Directed by Ruen-Rone Lee, National Tsing Hua University, Spring 2015
 ## Introduction:
 * Homework 1
   * model normalization
